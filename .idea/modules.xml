@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OnlinEdu.iml" filepath="$PROJECT_DIR$/.idea/OnlinEdu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atguigu_mp/atguigu_mp.iml" filepath="$PROJECT_DIR$/atguigu_mp/atguigu_mp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/excel_poi/excel_poi.iml" filepath="$PROJECT_DIR$/excel_poi/excel_poi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli_Eureka/guli_Eureka.iml" filepath="$PROJECT_DIR$/guli_Eureka/guli_Eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli_common/guli_common.iml" filepath="$PROJECT_DIR$/guli_common/guli_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli_edu/guli_edu.iml" filepath="$PROJECT_DIR$/guli_edu/guli_edu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli_oss/guli_oss.iml" filepath="$PROJECT_DIR$/guli_oss/guli_oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli_parent/guli_parent.iml" filepath="$PROJECT_DIR$/guli_parent/guli_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli_statistics/guli_statistics.iml" filepath="$PROJECT_DIR$/guli_statistics/guli_statistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli_sysuser/guli_sysuser.iml" filepath="$PROJECT_DIR$/guli_sysuser/guli_sysuser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli_ucenter/guli_ucenter.iml" filepath="$PROJECT_DIR$/guli_ucenter/guli_ucenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli_vod/guli_vod.iml" filepath="$PROJECT_DIR$/guli_vod/guli_vod.iml" />
+    </modules>
+  </component>
+</project>

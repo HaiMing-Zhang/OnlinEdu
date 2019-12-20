@@ -1,0 +1,10 @@
+# Project exclude paths
+/excel_poi/target/
+/guli_common/target/
+/guli_edu/target/
+/guli_Eureka/target/
+/guli_oss/target/
+/guli_statistics/target/
+/guli_sysuser/target/
+/guli_ucenter/target/
+/guli_vod/target/

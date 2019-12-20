@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="guli_edu" />
+        <module name="guli_Eureka" />
+        <module name="guli_oss" />
+        <module name="guli_common" />
+        <module name="excel_poi" />
+        <module name="guli_ucenter" />
+        <module name="atguigu_mp" />
+        <module name="guli_vod" />
+        <module name="guli_sysuser" />
+        <module name="guli_statistics" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="atguigu_mp" target="1.8" />
+      <module name="atguigu_video" target="1.8" />
+      <module name="excel_poi" target="1.8" />
+      <module name="guli_common" target="1.8" />
+      <module name="guli_edu" target="1.8" />
+      <module name="guli_Eureka" target="1.8" />
+      <module name="guli_oss" target="1.8" />
+      <module name="guli_parent" target="1.8" />
+      <module name="guli_statistics" target="1.8" />
+      <module name="guli_sysuser" target="1.8" />
+      <module name="guli_ucenter" target="1.8" />
+      <module name="guli_vod" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="atguigu_mp" options="-parameters" />
+      <module name="atguigu_video" options="-parameters" />
+      <module name="excel_poi" options="-parameters" />
+      <module name="guli_Eureka" options="-parameters" />
+      <module name="guli_common" options="-parameters" />
+      <module name="guli_edu" options="-parameters" />
+      <module name="guli_oss" options="-parameters" />
+      <module name="guli_statistics" options="-parameters" />
+      <module name="guli_sysuser" options="-parameters" />
+      <module name="guli_ucenter" options="-parameters" />
+      <module name="guli_vod" options="-parameters" />
+    </option>
+  </component>
+</project>

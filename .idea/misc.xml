@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/guli_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/guli_edu/pom.xml" />
+        <option value="$PROJECT_DIR$/guli_common/pom.xml" />
+        <option value="$PROJECT_DIR$/atguigu_mp/pom.xml" />
+        <option value="$PROJECT_DIR$/guli_sysuser/pom.xml" />
+        <option value="$PROJECT_DIR$/guli_oss/pom.xml" />
+        <option value="$PROJECT_DIR$/excel_poi/pom.xml" />
+        <option value="$PROJECT_DIR$/guli_Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/guli_parent/guli_ucenter/pom.xml" />
+        <option value="$PROJECT_DIR$/guli_statistics/pom.xml" />
+        <option value="$PROJECT_DIR$/guli_ucenter/pom.xml" />
+        <option value="$PROJECT_DIR$/guli_vod/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
